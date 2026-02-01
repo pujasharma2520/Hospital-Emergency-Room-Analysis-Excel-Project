@@ -23,6 +23,10 @@ The main goal of this project is to:
 - Track key performance indicators (KPIs)
 - Improve efficiency and patient experience through data-driven insights
 
+<p align="center">
+  <img src="Requirements/KPI.png" alt="KPI" width="1000"/>
+</p>
+
 ---
 
 ## 📊 Key KPIs Tracked
@@ -31,6 +35,10 @@ The main goal of this project is to:
 - **Patient Satisfaction Score**
 - **Patients Attended Within Time**
 - **Admission vs Not Admitted Rate**
+
+<p align="center">
+  <img src="Requirements/chart.png" alt="Charts" width="1000"/>
+</p>
 
 ---
 

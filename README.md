@@ -10,6 +10,10 @@ The dashboard provides actionable insights to help stakeholders monitor patient 
 
 The project was created as part of my learning journey, guided by **Satish Dhawale**.
 
+<p align="center">
+  <img src="images/project steps.png" alt="Project Overview" width="1000"/>
+</p>
+
 ---
 
 ## 🎯 Objective

@@ -23,10 +23,6 @@ The main goal of this project is to:
 - Track key performance indicators (KPIs)
 - Improve efficiency and patient experience through data-driven insights
 
-<p align="center">
-  <img src="Requirements/KPI.png" alt="KPI" width="1000"/>
-</p>
-
 ---
 
 ## 📊 Key KPIs Tracked
@@ -37,7 +33,7 @@ The main goal of this project is to:
 - **Admission vs Not Admitted Rate**
 
 <p align="center">
-  <img src="Requirements/chart.png" alt="Charts" width="1000"/>
+  <img src="Requirements/KPI.png" alt="KPI" width="1000"/>
 </p>
 
 ---
@@ -50,6 +46,10 @@ The main goal of this project is to:
 - ⏱ **Timeliness Analysis (Within 30 Minutes)**
 - 🏥 **Department-wise Referral Analysis**
 - 📝 **Admission Status Breakdown**
+
+<p align="center">
+  <img src="Requirements/chart.png" alt="Charts" width="1000"/>
+</p>
 
 ---
 

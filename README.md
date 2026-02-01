@@ -95,11 +95,6 @@ The main goal of this project is to:
 
 ---
 
-## 📷 Dashboard Preview
-> *(Add screenshots of your dashboard here)*
-
----
-
 ## 📚 Learning Outcome
 This project strengthened my skills in:
 - Data analysis using Excel

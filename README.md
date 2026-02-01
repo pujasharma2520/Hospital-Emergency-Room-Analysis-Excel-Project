@@ -1,7 +1,7 @@
 # 🏥 Hospital Emergency Room Dashboard (Excel Project)
 
 <p align="center">
-  <img src="images/apple-store.webp" alt="Apple Retail ERD" width="1000"/>
+  <img src="images/dashboard.png" alt="Dashboard" width="1000"/>
 </p>
 
 ## 📌 Project Overview
